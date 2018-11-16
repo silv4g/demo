@@ -1,4 +1,5 @@
 require 'active-record'
 
-class TestSpec
+class Test
+
 end
