@@ -1,3 +1,7 @@
 require 'active-record'
-class Test
+
+class TestSpec
+end
+
+class TestSpecTwo
 end
